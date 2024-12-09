@@ -4,7 +4,7 @@
 Includes GLM and GAM models for assessing the association between PRS and JIA.
 Output: Figure 1.
 
-### `1_PRS_JIA_distribution_Fig2.R`
+### `2_PRS_JIA_distribution_Fig2.R`
 Standardizes the JIA PRS and plots the distribution of JIA PRS for cases and controls.
 Output: Figure 2.
 
